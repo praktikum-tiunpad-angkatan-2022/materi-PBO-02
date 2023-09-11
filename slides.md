@@ -91,6 +91,9 @@ src: ./pages/21_Cover Exercise.md
 src: ./pages/22_Exercise1.md
 ---
 ---
+src: ./pages/23_Snippets.md
+---
+---
 src: ./pages/23_Cover Assignment.md
 ---
 ---
